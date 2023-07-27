@@ -1,3 +1,18 @@
 * {
     font-family: sans-serif;
 }
+
+h1 {
+    font-weight: 1000;
+    background-color: rgb(45, 51, 42);
+    color: rgb(219, 247, 206);
+}
+
+body {
+    background-color: #B7C493;
+    position:relative;
+}
+
+.headings {
+    text-decoration: underline;
+}
