@@ -43,6 +43,7 @@ button {
     font-size: medium;
     padding: 15px 32px;
     display: inline-block;
-    margin-top: 2rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
     font-weight: bold;
 }
